@@ -91,8 +91,8 @@ Then copy your server URL (e.g. `https://your-domain.com/webhook`) into the **Om
 
 ## Example Response
 
-> **You:** "Omi, what's the weather like today?"  
-> **Omi:** "Looks sunny and 25°C where you are!"
+> **You:** "Omi, Who is Elon Musk?"  
+> **Omi:** "Elon Musk is a South African-born entrepreneur, inventor, and business magnate..."
 
 ---
 
