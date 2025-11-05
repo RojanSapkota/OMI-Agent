@@ -1,3 +1,31 @@
-.env
-.vscode
-__pycache__/
+*.env
+.env*
+!.env.template
+*__pycache__/
+*venv/
+libraries/
+myenv/
+venv/
+.DS_Store
+dump/
+*.zip
+*.wav
+node_modules
+yarn.lock
+
+# General
+.idea/
+.next/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+dist/
+.build/
+.swiftpm/
+
+# VS Code
+.vscode/*
