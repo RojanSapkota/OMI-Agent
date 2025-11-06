@@ -96,6 +96,14 @@ Then copy your server URL (e.g. `https://your-domain.com/webhook`) into the **Om
 
 ---
 
+<h2 align="left">👤 Profile Visitors:</h2>
+<p align="left">
+<a href="https://rojansapkota.com.np" target="_blank">
+<img src="https://profile-counter.deno.dev/RojanSapkota-OMI-Agent/count.svg" alt="Visitor Counter"/>
+</a>
+</p>
+
+
 ## License
 
 This plugin is released under the **MIT License**, following the spirit of openness in the Omi ecosystem.
